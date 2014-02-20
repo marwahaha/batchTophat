@@ -2,7 +2,8 @@
 
 =head1 batchTophat
 
-  takes SIMR Lims directory and send fastq from samples for alignment in parallel using SGE
+  takes SIMR Lims directory and send fastq from samples for alignment in parallel using
+  on a Sun Grid Engine computer cluster
 
 =head1 SYNOPSIS
 
